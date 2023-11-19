@@ -1,0 +1,3 @@
+[submodule "TooSimple"]
+	path = TooSimple
+	url = git@github.com:kidsss/TooSimple.git
